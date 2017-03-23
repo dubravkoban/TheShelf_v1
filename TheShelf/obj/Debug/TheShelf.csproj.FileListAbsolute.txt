@@ -1,6 +1,0 @@
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\bin\Debug\TheShelf.exe.config
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\bin\Debug\TheShelf.exe
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\bin\Debug\TheShelf.pdb
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\obj\Debug\TheShelf.csprojResolveAssemblyReference.cache
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\obj\Debug\TheShelf.exe
-c:\users\dudo\documents\visual studio 2017\Projects\TheShelf\TheShelf\obj\Debug\TheShelf.pdb
